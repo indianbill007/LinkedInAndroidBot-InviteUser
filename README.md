@@ -15,6 +15,12 @@ Steps to setup on your environment.
 
   Linux 64: https://dl.google.com/android/adt/adt-bundle-linux-x86_64-20140702.zip
 
-2.Add user variable ANDROID_HOME and set value as path of sdk
-  Add system variable JAVA_HOME and set value as          
+2.Add user variable ANDROID_HOME and set value as path of sdk and
+  add system variable JAVA_HOME and set value as
+  for more details visit [Selendroid](http://selendroid.io/setup.html )
 
+3.Install gennymotion and eclipse and install it on your machine . 
+  [Gennymotion](https://www.genymotion.com/thank-you-freemium/)
+  [Eclipse](https://eclipse.org/downloads/)
+
+  
