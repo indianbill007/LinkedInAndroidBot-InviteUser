@@ -23,4 +23,8 @@ Steps to setup on your environment.
   [Gennymotion](https://www.genymotion.com/thank-you-freemium/) || 
   [Eclipse](https://eclipse.org/downloads/)
 
+4.Add new virtual device in gennymotion and launch
+5.Import project to eclipse 
+6.Run the project by right clicking on StartApp.class.
+
   
