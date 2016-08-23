@@ -20,11 +20,15 @@ Steps to setup on your environment.
   for more details visit [Selendroid](http://selendroid.io/setup.html )
 
 3.Install gennymotion and eclipse and install it on your machine . 
-  [Gennymotion](https://www.genymotion.com/thank-you-freemium/) || 
+
+  [Gennymotion](https://www.genymotion.com/thank-you-freemium/)
+  
   [Eclipse](https://eclipse.org/downloads/)
 
 4.Add new virtual device in gennymotion and launch
+
 5.Import project to eclipse 
+
 6.Run the project by right clicking on StartApp.class.
 
   
