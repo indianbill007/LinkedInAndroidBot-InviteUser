@@ -20,7 +20,7 @@ Steps to setup on your environment.
   for more details visit [Selendroid](http://selendroid.io/setup.html )
 
 3.Install gennymotion and eclipse and install it on your machine . 
-  [Gennymotion](https://www.genymotion.com/thank-you-freemium/)
+  [Gennymotion](https://www.genymotion.com/thank-you-freemium/) /n
   [Eclipse](https://eclipse.org/downloads/)
 
   
